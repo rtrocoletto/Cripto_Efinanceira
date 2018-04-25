@@ -1,0 +1,10 @@
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\bin\Debug\Prototipo_EFinanceira.exe.config
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\bin\Debug\Prototipo_EFinanceira.exe
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\bin\Debug\Prototipo_EFinanceira.pdb
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\obj\Debug\Prototipo_EFinanceira.csprojResolveAssemblyReference.cache
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\obj\Debug\Prototipo_EFinanceira.Properties.Resources.resources
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\obj\Debug\Prototipo_EFinanceira.csproj.GenerateResource.cache
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\obj\Debug\Prototipo_EFinanceira.csproj.CoreCompileInputs.cache
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\obj\Debug\Prototipo_EFinanceira.exe
+C:\temp\Prototipo - Efinanceira\WindowsFormsApp2\obj\Debug\Prototipo_EFinanceira.pdb
